@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @XodboX38.
-- 👀 I’m interested in web developing as well as programming.
-- 🌱 I’m currently learning frontend developing.
-- 💞️ I’m looking to collaborate on web developing projects.
+- 👋 Hi, I’m Yugal Sharma.
+- 👀 I’m interested in making world better using [0,1]'s.
+- 💞️ I’m looking to collaborate on dope and bada$$ projects.
 - 📫 For any Queries Instagram: @yugal.vashisht
 
