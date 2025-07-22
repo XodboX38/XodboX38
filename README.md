@@ -13,10 +13,12 @@ I'm **Yugal Sharma**, a passionate **Software Developer** with **2 years of expe
 
 ### 💡 What I Do
 - 💻 Write clean and maintainable code in **PHP, C/C++, JavaScript, Python, and Bash**
+- 💻 Proficient in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) for full-stack web development
 - 🔧 Build backends with **Laravel**, **Express.js**, **Socket.io**, and **REST APIs**
 - 🛡️ Craft secure software with deep knowledge of **OWASP Top Ten 2025** and secure coding principles
 - 🧪 Actively use tools like `SQLMap`, `Nmap`, `Burp Suite`, `Wireshark`, `Airmon-ng`, and `Bettercap`
 - 🧠 Research and build tools that **automate tasks** or **solve real-world problems**
+
 
 ### 🌟 Achievements
 - 🥇 Built multiple custom tools and scripts used in real-world automation and security research
