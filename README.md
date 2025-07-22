@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer & Cybersecurity Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Software+Developer;Security+Engineer;Open+Source+Contributor;IoT+Tinkerer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Software+Developer;Security+Engineer;IoT+Tinkerer" />
 </p>
 
 ---
